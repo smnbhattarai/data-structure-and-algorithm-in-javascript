@@ -1,14 +1,14 @@
 ### Data structure and Algorithm in JavaScript 
-- 1-problem-solving-patterns
-  - 0-character-frequency-count.js
-  - 1-same-frequency-in-two-array.js
-  - 2-anagrams.js
-  - 3-sum-zero.js
-  - 4-count-unique-values.js
-  - 5-max-sub-array-sum.js
-- 2-recursion
-  - 1-super-simple-recursive-function.js
-  - 2-sum-range.js
-  - 3-factorial.js
-  - 4-fibonacci.js
-  - 5-collect-odd-values.js
+- 1 Problem-solving patterns
+  - 1 Character frequency count
+  - 2 Same frequency in two array
+  - 3 Anagrams
+  - 4 Sum zero
+  - 5 Count unique values
+  - 6 Max sub array sum
+- 2 Recursion
+  - 1 Super simple recursive function
+  - 2 Sum range
+  - 3 Factorial
+  - 4 Fibonacci
+  - 5 Collect odd values
