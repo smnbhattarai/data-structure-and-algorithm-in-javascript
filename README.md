@@ -6,3 +6,9 @@
   - 3-sum-zero.js
   - 4-count-unique-values.js
   - 5-max-sub-array-sum.js
+- 2-recursion
+  - 1-super-simple-recursive-function.js
+  - 2-sum-range.js
+  - 3-factorial.js
+  - 4-fibonacci.js
+  - 5-collect-odd-values.js
