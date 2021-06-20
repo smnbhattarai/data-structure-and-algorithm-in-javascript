@@ -12,3 +12,7 @@
   - 3 Factorial
   - 4 Fibonacci
   - 5 Collect odd values
+- 3 Searching 
+  - 1 Linear search
+  - 2 Binary search
+  - 3 String search brute force
