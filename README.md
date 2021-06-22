@@ -16,3 +16,7 @@
   - 1 Linear search
   - 2 Binary search
   - 3 String search brute force
+- 4 Sorting
+  - 1 Bubble sort
+  - 2 Selection sort
+  - 2 Insertion sort
