@@ -26,3 +26,6 @@
 - 5 Linked list
   - 1 Singly linked list
   - 2 Doubly linked list
+- 6 Stacks and Queues
+  - 1 Stack
+  - 2 Queues
