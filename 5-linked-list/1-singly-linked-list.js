@@ -132,12 +132,13 @@ class SinglyLinkedList {
     }
 
     traverse() {
+        let output = [];
         let current = this.head;
         while (current) {
-            console.log(current.val);
+            output.push(current.val);
             current = current.next;
         }
-        return true;
+        return output;
     }
 }
 

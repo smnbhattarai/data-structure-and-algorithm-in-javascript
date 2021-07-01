@@ -23,3 +23,6 @@
   - 4 Merge sort
   - 5 Quick sort
   - 6 Radix sort
+- 5 Linked list
+  - 1 Singly linked list
+  - 2 Doubly linked list
