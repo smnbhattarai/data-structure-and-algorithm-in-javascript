@@ -34,3 +34,4 @@
 - 8 Heaps
   - 1 Max Binary Heap
   - 2 Priority queue
+- 9 Hash tables  
