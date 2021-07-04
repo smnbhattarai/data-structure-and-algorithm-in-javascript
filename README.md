@@ -29,3 +29,8 @@
 - 6 Stacks and Queues
   - 1 Stack
   - 2 Queues
+- 7 Tree
+  - 1 Binary Search Tree (BFS, DFS and traversal)
+- 8 Heaps
+  - 1 Max Binary Heap
+  - 2 Priority queue
