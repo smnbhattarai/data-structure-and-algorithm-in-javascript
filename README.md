@@ -34,4 +34,9 @@
 - 8 Heaps
   - 1 Max Binary Heap
   - 2 Priority queue
-- 9 Hash tables  
+- 9 Hash tables
+  - 1 Hash table
+- 10 Graphs  
+  - 1 Graph
+  - 2 Graph Traversal (depth first)
+  - 3 Graph Traversal (Breath first)

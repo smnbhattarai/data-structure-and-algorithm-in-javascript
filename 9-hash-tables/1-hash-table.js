@@ -1,5 +1,6 @@
 /**
  * Hash table
+ * Separate chaining hash collision resolution implemented
  */
 
 class HashTable {
