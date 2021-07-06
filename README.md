@@ -40,3 +40,6 @@
   - 1 Graph
   - 2 Graph Traversal (depth first)
   - 3 Graph Traversal (Breath first)
+  - 4 Dijkstra
+- 11 Dynamic Programming
+  - 1 Fibonacci (Solved by dynamic programming)
