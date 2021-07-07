@@ -43,3 +43,7 @@
   - 4 Dijkstra
 - 11 Dynamic Programming
   - 1 Fibonacci (Solved by dynamic programming)
+- 12 Leetcode  
+  - 3 Length of longest substring
+  - 5 Longest palindrome
+  - 125 is Palindrome
