@@ -46,4 +46,7 @@
 - 12 Leetcode  
   - 3 Length of longest substring
   - 5 Longest palindrome
+  - 55 Can Jump
+  - 55 Climb stairs
   - 125 is Palindrome
+  - 198 Rob
