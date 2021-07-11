@@ -46,7 +46,15 @@
 - 12 Leetcode  
   - 3 Length of longest substring
   - 5 Longest palindrome
+  - 11 Max Area
   - 55 Can Jump
-  - 55 Climb stairs
+  - 56 Merge Intervals
+  - 70 Climb stairs
+  - 121 Max Profit
   - 125 is Palindrome
   - 198 Rob
+  - 200 Number of islands
+  - 217 contains duplicates
+  - 238 product except self
+  - 252 can attend meeting
+  - 435 erase overlap intervals
